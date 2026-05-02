@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    background: #111;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background: gold;
+    color: black;
+    padding: 20px;
+}
+
+nav a {
+    margin: 10px;
+    color: gold;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    margin: 20px;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 14px;
+}
